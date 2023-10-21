@@ -32,7 +32,7 @@ print("Swapped values are:",a,b)
 
 ## Output:
 
-![output](./EX%201.png)
+![](./EX%201.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
